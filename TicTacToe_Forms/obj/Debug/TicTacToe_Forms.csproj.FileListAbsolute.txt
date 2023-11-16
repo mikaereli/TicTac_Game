@@ -1,0 +1,10 @@
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\bin\Debug\TicTacToe_Forms.exe.config
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\bin\Debug\TicTacToe_Forms.exe
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\bin\Debug\TicTacToe_Forms.pdb
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.csproj.AssemblyReference.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.Form1.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.Properties.Resources.resources
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.csproj.GenerateResource.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.csproj.CoreCompileInputs.cache
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.exe
+C:\Users\MInKA\OneDrive\Рабочий стол\TicTacToe_Forms\TicTacToe_Forms\obj\Debug\TicTacToe_Forms.pdb
